@@ -13,6 +13,8 @@ echo "Duc";
 
 echo "Anh dep trai";
 
+echo "Anh nhanh 1";
+
 echo "Bye";
 
 ?>
