@@ -8,6 +8,7 @@ $x = "Hi Gay";
 echo "<br>"; 
 echo $y;
 echo "Duc";
+echo "Bye";
 ?>
 
 </body>
