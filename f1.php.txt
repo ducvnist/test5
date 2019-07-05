@@ -8,6 +8,7 @@ $x = "Hi Gay";
 echo "<br>"; 
 echo $y;
 
+
 echo "Duc";
 echo "chỉ là tình cờ";
 
@@ -15,6 +16,8 @@ echo "chỉ là tình cờ";
 echo "Anh dep trai";
 
 echo "Bye";
+echo "Duc pro";
+
 
 ?>
 
