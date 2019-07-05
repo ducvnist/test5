@@ -9,6 +9,7 @@ echo "<br>";
 echo $y;
 
 echo "Duc";
+echo "chỉ là tình cờ";
 
 
 echo "Anh dep trai";
